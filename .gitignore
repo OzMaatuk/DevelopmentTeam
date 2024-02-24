@@ -1,0 +1,9 @@
+configs/*
+logs/*
+outputs/*
+prompts/*
+rag/*
+.cache
+storage
+tree.txt
+chroma_examples.py

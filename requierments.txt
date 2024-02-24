@@ -1,0 +1,6 @@
+settlement-chat
+autogen
+chromadb
+dotenv
+langchain
+openai
